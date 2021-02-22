@@ -18,3 +18,8 @@ A Tool for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 2. Click on the Hamburger Menu Icon ☰
 3. Advanced > Diagonistics
 4. Under Client Configuration > Copy the ID
+
+--------------------------------------------------------------------
+![main](https://user-images.githubusercontent.com/77905194/108765614-332f5080-757e-11eb-9a9b-1a22f356a597.png)
+![manin 2](https://user-images.githubusercontent.com/77905194/108766852-d9c82100-757f-11eb-8a69-bebadf234941.png)
+![main3](https://user-images.githubusercontent.com/77905194/108766860-dd5ba800-757f-11eb-84eb-d5e2044959f0.png)
